@@ -1,1 +1,1 @@
-# mivjm.github.io/index.html/
+# mivjm.github.io/
