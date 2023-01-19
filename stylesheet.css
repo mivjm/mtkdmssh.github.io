@@ -4,9 +4,23 @@
   box-sizing: border-box;
 }
 
-.h1-title {
-  text-align: center;
-  margin: 50px 0;
+.div-header {
+  height: 50;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.div-contents {
+  width: 800;
+  margin: 0 auto;
+  background-color: #55555;
+  color: #ffffff;
+}
+
+.div-footer {
+  height: 50;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 .div-imgwrap {
@@ -19,6 +33,11 @@
   margin: 0 auto;
   max-width: 100%;
   object-fit: cover;
+}
+
+.h1-title {
+  text-align: center;
+  margin: 50px 0;
 }
 
 .h2-profile {
