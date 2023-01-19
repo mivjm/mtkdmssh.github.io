@@ -16,13 +16,11 @@
 }
 
 .div-contents {
-  height: 50px;
   width: 800px;
   margin: 0 auto;
   background: whitesmoke;
   color: black;
-  padding: 10px;
-  top: 50px;
+  padding: 50px 10px;
 }
 
 .div-footer {
