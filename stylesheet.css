@@ -13,6 +13,7 @@
   position: fixed;
   top: 0px;
   left: 0px;
+  border: none;
 }
 
 .div-contents {
@@ -21,6 +22,7 @@
   background: whitesmoke;
   color: black;
   padding: 50px 10px;
+  border: none;
 }
 
 .div-footer {
@@ -32,6 +34,7 @@
   position: fixed;
   bottom: 0px;
   left: 0px;
+  border: none;
 }
 
 .div-imgwrap {
