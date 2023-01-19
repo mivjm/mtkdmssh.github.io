@@ -65,19 +65,19 @@
   margin: 10px 10px;
 }
 
-.h4-header {
-  text-align: center;
-  margin: auto 0;
-}
-
-.h4-footer {
-  text-align: center;
-  margin: auto 0;
-}
-
 .p-profile {
   font-size: 14px;
   line-height: 2;
   letter-spacing: 1px;
   margin: 0px 20px;
+}
+
+.p-header {
+  text-align: center;
+  margin: auto 0;
+}
+
+.p-footer {
+  text-align: center;
+  margin: auto 0;
 }
