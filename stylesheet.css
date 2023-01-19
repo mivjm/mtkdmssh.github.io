@@ -65,6 +65,15 @@
   margin: 10px 0;
 }
 
+.h4-header {
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.h4-footer {
+  margin: 10px auto;
+}
+
 .p-profile {
   font-size: 14px;
   line-height: 2;
