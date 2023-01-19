@@ -6,22 +6,22 @@
 
 .div-header {
   height: 50px;
-  background: #ffffff;
-  color: #000000;
+  background: red;
+  color: white;
 }
 
 .div-contents {
   height: 50px;
   width: 800px;
   margin: 0 auto;
-  background: #55555;
-  color: #ffffff;
+  background: green;
+  color: black;
 }
 
 .div-footer {
   height: 50px;
-  background: #ffffff;
-  color: #000000;
+  background: blue;
+  color: white;
 }
 
 .div-imgwrap {
