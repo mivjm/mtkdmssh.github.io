@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.body-background {
+  background: whitesmoke;
+}
+
 .div-header {
   height: 50px;
   width: 100%;
@@ -19,8 +23,6 @@
 .div-contents {
   width: 800px;
   margin: 0 auto;
-  background: whitesmoke;
-  color: black;
   padding: 50px 10px;
   border: none;
 }
