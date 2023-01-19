@@ -4,24 +4,24 @@
   box-sizing: border-box;
 }
 
-.head-title {
+.h1-title {
   text-align: center;
   margin: 50px 0;
 }
 
-.img-wrap {
+.div-imgwrap {
   max-width: 1000px;
   margin: 0 auto;
 }
 
-.img-wrap img {
+.div-imgwrap img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
   object-fit: cover;
 }
 
-.head-profile {
+.h2-profile {
   text-align: center;
   margin: 50px 0;
   text-decoration: underline;
