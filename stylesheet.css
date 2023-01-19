@@ -23,6 +23,7 @@
 .div-contents {
   width: 800px;
   margin: 0 auto;
+  background: white;
   padding: 50px 10px;
   border: none;
 }
