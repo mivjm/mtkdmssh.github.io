@@ -39,12 +39,12 @@
   border: none;
 }
 
-.div-imgwrap {
-  max-width: 1000px;
+.div-titlelogo {
+  max-width: 800px;
   margin: 0 auto;
 }
 
-.div-imgwrap img {
+.div-titlelogo img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
