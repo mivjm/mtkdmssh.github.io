@@ -62,7 +62,7 @@
 }
 
 .h3-profile {
-  margin: 10px 0;
+  margin: 10px 10px;
 }
 
 .h4-header {
@@ -79,4 +79,5 @@
   font-size: 14px;
   line-height: 2;
   letter-spacing: 1px;
+  margin: 0px 20px;
 }
