@@ -57,14 +57,17 @@
 }
 
 .h2-profile {
-  /* text-align: center; */
   margin: 50px 0;
   text-decoration: underline;
 }
 
+.h3-profile {
+  margin: 50px 0;
+}
+
 .p-profile {
   /* text-align: center; */
-  font-size: 16px;
+  font-size: 14px;
   line-height: 2;
   letter-spacing: 1px;
 }
