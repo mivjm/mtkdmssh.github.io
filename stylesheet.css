@@ -6,7 +6,7 @@
 
 .div-header {
   height: 50;
-  background-color: #ffffff;
+  background: #ffffff;
   color: #000000;
 }
 
@@ -14,13 +14,13 @@
   height: 50;
   width: 800;
   margin: 0 auto;
-  background-color: #55555;
+  background: #55555;
   color: #ffffff;
 }
 
 .div-footer {
   height: 50;
-  background-color: #ffffff;
+  background: #ffffff;
   color: #000000;
 }
 
