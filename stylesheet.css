@@ -17,6 +17,7 @@
   position: fixed;
   top: 0px;
   left: 0px;
+  text-align: center;
 }
 
 .div-contents {
@@ -35,6 +36,7 @@
   position: fixed;
   bottom: 0px;
   left: 0px;
+  text-align: center;
 }
 
 .div-titlelogo {
@@ -64,7 +66,6 @@
 }
 
 .p-profile {
-  /* text-align: center; */
   font-size: 14px;
   line-height: 2;
   letter-spacing: 1px;
