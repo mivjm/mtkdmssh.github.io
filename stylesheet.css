@@ -9,6 +9,7 @@
   background: black;
   color: white;
   padding: 10px;
+  position: fixed;
 }
 
 .div-contents {
@@ -25,6 +26,7 @@
   background: black;
   color: white;
   padding: 10px;
+  position: fixed;
 }
 
 .div-imgwrap {
