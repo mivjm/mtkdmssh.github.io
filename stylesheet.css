@@ -6,7 +6,7 @@
 
 .div-header {
   height: 50px;
-  background: red;
+  background: black;
   color: white;
 }
 
@@ -14,13 +14,13 @@
   height: 50px;
   width: 800px;
   margin: 0 auto;
-  background: green;
+  background: whitesmoke;
   color: black;
 }
 
 .div-footer {
   height: 50px;
-  background: blue;
+  background: black;
   color: white;
 }
 
