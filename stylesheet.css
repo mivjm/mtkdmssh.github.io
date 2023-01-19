@@ -4,15 +4,17 @@
   box-sizing: border-box;
 }
 
-.div-header {
+.header-fixed {
   height: 50px;
   background: black;
   color: white;
   padding: 10px;
   position: fixed;
+  top: 0px;
+  left: 0px;
 }
 
-.div-contents {
+.main-contents {
   height: 50px;
   width: 800px;
   margin: 0 auto;
@@ -21,12 +23,14 @@
   padding: 10px;
 }
 
-.div-footer {
+.footer-fixed {
   height: 50px;
   background: black;
   color: white;
   padding: 10px;
   position: fixed;
+  bottom: 50px;
+  left: 0px;
 }
 
 .div-imgwrap {
