@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.header-fixed {
+.div-header {
   height: 50px;
   background: black;
   color: white;
@@ -14,7 +14,7 @@
   left: 0px;
 }
 
-.main-contents {
+.div-contents {
   height: 50px;
   width: 800px;
   margin: 0 auto;
@@ -23,7 +23,7 @@
   padding: 10px;
 }
 
-.footer-fixed {
+.div-footer {
   height: 50px;
   background: black;
   color: white;
@@ -46,8 +46,8 @@
 }
 
 .h1-title {
-  /* text-align: center; */
-  margin: 50px 0;
+  text-align: center;
+  margin: 0 0 0 100px;
 }
 
 .h2-profile {
