@@ -11,6 +11,7 @@
 }
 
 .div-contents {
+  height: 50;
   width: 800;
   margin: 0 auto;
   background-color: #55555;
