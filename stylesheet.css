@@ -5,21 +5,21 @@
 }
 
 .div-header {
-  height: 50;
+  height: 50px;
   background: #ffffff;
   color: #000000;
 }
 
 .div-contents {
-  height: 50;
-  width: 800;
+  height: 50px;
+  width: 800px;
   margin: 0 auto;
   background: #55555;
   color: #ffffff;
 }
 
 .div-footer {
-  height: 50;
+  height: 50px;
   background: #ffffff;
   color: #000000;
 }
