@@ -104,6 +104,14 @@ a {
   text-align: right;
 }
 
+.p-profile-last-message {
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 1px;
+  margin: 0 20px;
+  text-align: center;
+}
+
 #overlay{
   position: fixed;
   top:0;
