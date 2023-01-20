@@ -64,6 +64,11 @@
   margin: 20px 10px;
 }
 
+.h3-profile-center {
+  margin: 20px 10px;
+  text-align: center;
+}
+
 .h4-profile {
   margin: 10px 20px;
 }
@@ -75,7 +80,7 @@
   margin: 0 20px;
 }
 
-.p-profile-rightfit {
+.p-profile-right {
   font-size: 14px;
   line-height: 2;
   letter-spacing: 1px;
