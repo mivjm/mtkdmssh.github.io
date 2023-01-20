@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+a {
+  color: inherit;
+  /* text-decoration: none; */
+  /* ↑↑↑ cancel underline */
+}
+
 .body-background {
   background: whitesmoke;
 }
