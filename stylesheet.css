@@ -75,6 +75,14 @@
   margin: 0 20px;
 }
 
+.p-profile-rightfit {
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 1px;
+  margin: 0 20px;
+  text-align: right;
+}
+
 .h4-header {
   text-align: center;
   margin: auto 0;
