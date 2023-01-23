@@ -88,7 +88,7 @@ function randomTaslar() {
     
     for (i=0; i<taslar.length; i++) {
         if (rndList[i] == 0) {
-            val = " "
+            val = "*"
         } else {
             val = rndList[i].toString()
         }
