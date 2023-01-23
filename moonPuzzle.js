@@ -31,7 +31,7 @@ function degisme(id, bosTasId) {
 function pushed(id) {
     var btn = document.getElementById(id);
 
-    if (btn.firstChild.data!="*") {
+    if (btn.firstChild.data != "*") {
         bosTasId = tasBul("*")
         
         if (degisme(id, bosTasId) == false) return;
