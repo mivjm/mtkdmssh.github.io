@@ -124,7 +124,7 @@ a {
   text-align: center;
   font-family: "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu-Gothic", メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
 }
-
+/*
 #overlay{
   position: fixed;
   top:0;
@@ -136,7 +136,7 @@ a {
   background: rgba(0,0,0,0.6);
   transition: all 0.5s ease-out;
 }
-/*
+*/
 #overlay {
   position: fixed;
   top: 0;
@@ -148,7 +148,7 @@ a {
   background: rgba(0,0,0,0.6);
   transition: all 0.5s ease-out;
 }
-*/
+
 /*
 #overlay.overlay-on{
   visibility: visible;
