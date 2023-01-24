@@ -1,4 +1,4 @@
-/*
+
 document.addEventListener('DOMContentLoaded', function(){
   // オーバレイを開閉する関数
   const overlay = document.getElementById('overlay');
@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function(){
   const overlayInner = document.getElementById('overlay-inner');
   overlayInner.addEventListener('click', stopEvent, false);  
 }, false);
-*/
+/*
 document.addEventListner('DOMContentLoaded', function(){
     // オーバレイを解放する関数
     const overlay = document.getElementById('overlay');
@@ -36,3 +36,4 @@ document.addEventListner('DOMContentLoaded', function(){
     const overlayInner = document.getElementById('overlay-inner');
     overlayInner.addEventListener('click', stopEvent, false);
 }, false);
+*/
