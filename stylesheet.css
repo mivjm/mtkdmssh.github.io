@@ -189,7 +189,7 @@ a {
   font-family: "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu-Gothic", メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
   width: 800px;
   height: 100%;
-  /*margin: 50px auto;*/
+  margin: 50px auto;
 }
 /*
 #open-btn, #close-btn{
