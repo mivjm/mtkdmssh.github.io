@@ -73,6 +73,14 @@ a {
   object-fit: cover;
 }
 
+.div-profile-text {
+  align: left;
+}
+
+.div-profile-photo {
+  align: right;
+}
+
 .h1-title {
   text-align: center;
   margin: 0px 0px 50px 0px;
